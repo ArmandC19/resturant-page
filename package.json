@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ArmandC19/resturant-page#readme",
   "devDependencies": {
-    "webpack": "^4.39.2"
+    "webpack": "^5.75.0"
   }
 }
